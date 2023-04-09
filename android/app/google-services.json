@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "17933320646",
+    "project_id": "trabalho-final-flutter-692bb",
+    "storage_bucket": "trabalho-final-flutter-692bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17933320646:android:73b5db517a6764e33ff2c7",
+        "android_client_info": {
+          "package_name": "com.example.trabalho_final_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17933320646-hah8ua13rd1tmr2bm3qc8j2hr4bqfd3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0K48XwOM0qkprrb9g7Wnno9QlJLFKs6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17933320646-hah8ua13rd1tmr2bm3qc8j2hr4bqfd3r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "17933320646-5p9r60pgkkudv1g7lltv1iq8s0pgi35n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.trabalhoFinalFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
